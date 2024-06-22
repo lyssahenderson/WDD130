@@ -15,10 +15,10 @@ body {
     --heading-font: 'Teko', serif;
     --paragraph-font: 'Teko', serif;
 
-    --nav-background-color: ;
-    --nav-link-color: ;
-    --nav-hover-link-color: ;
-    --nav-hover-background-color: ;
+    --nav-background-color: #FFFFFF ;
+    --nav-link-color: #000000;
+    --nav-hover-link-color: #F5DE73;
+    --nav-hover-background-color: #FFFFFF;
 }
 h1, h2, h3, h4, h5, h6 {
     font-family: var(--heading-font);
