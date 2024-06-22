@@ -9,8 +9,8 @@ body {
 :root {
     --primary-color: #134365;
     --secondary-color: #F5DE73;
-    --accent-color1: #7BC4D5;
-    --accent-color2: #FFFFFF;
+    --accent1-color: #7BC4D5;
+    --accent2-color: #FFFFFF;
 
     --heading-font: 'Teko', serif;
     --paragraph-font: 'Teko', serif;
