@@ -105,6 +105,13 @@ nav a:hover {
     color: #FFFFFF;
     text-decoration: none;
 }
+.gridcontainer {
+    max-width: 840px;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-gap: 5px;
+    padding: 8px;
+}
 .griditem img {
-    width: 400px;
+    width: 150px;
 }
