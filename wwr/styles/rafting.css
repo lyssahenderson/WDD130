@@ -23,6 +23,9 @@ h1, h2, h3, h4, h5, h6 {
     font-family: var(--heading-font);
     color: var(--primary-color);
 }
+section p {
+    background-color: var(--secondary-color);
+}
 header {
     padding: 20px;
     background-color: var(--accent-color1);
@@ -40,6 +43,9 @@ nav  {
     background-color: var(--nav-background-color);
     font-size: 1.2rem;
     display: flex;
+}
+nav img {
+    width: 100px;
 }
 nav a {
     display: block;
@@ -86,3 +92,19 @@ nav a:hover {
     float: right;
     margin-left: 10px;
 }  
+.sociallinks {
+    display: flex;
+    align-items: right;
+    justify-content: right;
+    margin: 1rem 0 3rem 0;
+}
+.sociallinks img {
+    width: 20px;
+}
+.sociallinks a {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+.griditem img {
+    width: 400px;
+}
