@@ -94,7 +94,6 @@ nav a:hover {
 }  
 .sociallinks {
     display: flex;
-    align-items: right;
     justify-content: right;
     margin: 1rem 0 3rem 0;
 }
